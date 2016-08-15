@@ -1,0 +1,14 @@
+layout_spectrum: 0.2809561474714428
+typography_spectrum: 0.6914279700722545
+color:
+  brandStrength: 0.40710171521641314
+  lightness: 0.009097171714529395
+  saturation: 0.08112464472651482
+  rhythmicContrast: 0.5189896195661277
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: RMB
